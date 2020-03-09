@@ -29,7 +29,8 @@ Feel free to remove any sections that aren't applicable to your project.
 
 ## To-Do
 - [x] Retrieve basic metadata: Title
-- [ ] Retrieve more advanced metadata: Views, Likes, Dislikes, Descriptions, Hashtags
+- [x] Retrieve more advanced metadata (part I): Views, Likes, Dislikes
+- [ ] Retrieve more advanced metatada (part II): Hashtags, Description
 - [ ] Scrape video links based on user's own keywords
 - [ ] Download and manipulate videos if given links 
 
