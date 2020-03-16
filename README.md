@@ -1,4 +1,4 @@
-# Video Crawler
+# Video Crawler to Extract Youtube metadata, Query video links based on user-given input, and Download them in portable formats.
 
 This package is meant to ease crawling video sources: from retrieving relevant metadata, scraping links given your keywords, to downloading for your input datasets.
 
