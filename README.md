@@ -1,4 +1,4 @@
-# Video Crawler to Extract Youtube metadata, Query video links based on user-given input, and Download them in portable formats.
+# Video Crawler
 
 This package is meant to ease crawling video sources: from retrieving relevant metadata, scraping links given your keywords, to downloading for your input datasets.
 
@@ -24,8 +24,6 @@ pip install -r requirements.txt
 ## Usage
 
 `python scrape_youtube_meta.py --input ./sample/youtube_list.csv --output ./sample`
-
-Feel free to remove any sections that aren't applicable to your project.
 
 ## To-Do
 - [x] Retrieve basic metadata: Title
